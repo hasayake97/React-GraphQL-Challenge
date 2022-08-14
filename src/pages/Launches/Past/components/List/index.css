@@ -1,0 +1,11 @@
+.spacex-card-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.spacex-card-item {
+  width: 25%;
+  padding: 40px;
+}
+
+

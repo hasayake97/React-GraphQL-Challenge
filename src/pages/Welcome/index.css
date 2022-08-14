@@ -1,0 +1,16 @@
+.spacex-welcome__wrapper {
+  text-align: center;
+}
+
+.spacex-logo {
+  width: 320px;
+  margin: 0 auto;
+}
+
+.spacex-welcome {
+  font-size: 36px;
+}
+
+.spacex-link + .spacex-link {
+  margin-left: 80px;
+}

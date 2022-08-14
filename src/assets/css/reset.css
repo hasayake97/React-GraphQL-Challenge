@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+}
+
+#root, .spacex-container {
+  height: inherit;
+}
+
+ul {
+  padding: 0;
+}
+
+.spacex-container {
+  width: 100%;
+}
